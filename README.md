@@ -49,3 +49,30 @@ This system can be used for:
 ## 🤝 Contributions
 
 Open to improvements, optimizations, and feature extensions.
+
+```
+clothing-recommender
+│
+├── app/
+│   ├── main.py              # FastAPI app
+│   ├── model.py             # ML pipeline
+│   ├── utils.py             # preprocessing
+│   ├── config.py
+│
+├── models/
+│   ├── kmeans.pkl
+│   ├── scaler.pkl
+│   ├── embeddings.npy
+│
+├── data/
+│   ├── dataset.csv
+│   ├── images/
+│
+├── notebooks/
+│   ├── training.ipynb
+│
+├── requirements.txt
+├── Dockerfile
+├── README.md
+
+```
