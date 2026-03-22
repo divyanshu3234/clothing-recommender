@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
+*.pyc
 
 # 🔹 Virtual Environment
 venv/
@@ -20,6 +21,7 @@ ENV/
 *.log
 
 # 🔹 OS Files
+
 .DS_Store
 Thumbs.db
 
