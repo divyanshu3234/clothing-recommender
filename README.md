@@ -69,7 +69,9 @@ clothing-recommender
 │   ├── images/
 │
 ├── notebooks/
-│   ├── training.ipynb
+│   ├── Collectivism.ipynb
+│   ├── UserImageModel.ipynb
+
 │
 ├── requirements.txt
 ├── Dockerfile
